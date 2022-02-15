@@ -1,7 +1,7 @@
 # Node artifact files
-node_modules
-webpack
-package-lock.json
+node_modules/
+webpack/
+/package-lock.json
 !.gitignore
 
 # Log files
