@@ -1,0 +1,2 @@
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;line-height:1.5em;transition:all .25s ease-out}.wrapper{height:500px;display:grid;grid-template-areas:'header header' 'content sidebar' 'footer footer';grid-template-columns:auto 20%;grid-template-rows:25% 50% 25%}section,header,aside,footer{border:1px solid #ccc;background:#eee;padding:20px;text-align:center;font-family:Arial;display:flex;justify-content:center;align-items:center}.header{grid-area:header}.content{grid-area:content}.footer{grid-area:footer}
+

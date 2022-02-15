@@ -1,0 +1,39 @@
+{
+  "name": "grid-layout-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martacg/grid-layout-template.git"
+  },
+  "keywords": [
+    "grid",
+    "layout",
+    "template"
+  ],
+  "author": "Marta González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martacg/grid-layout-template/issues"
+  },
+  "homepage": "https://github.com/martacg/grid-layout-template#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "css-loader": "^6.6.0",
+    "file-loader": "^6.2.0",
+    "handlebars": "^4.7.7",
+    "handlebars-loader": "^1.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.5.3",
+    "node-sass": "^7.0.1",
+    "postcss-loader": "^6.2.1",
+    "sass-loader": "^12.5.0",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  }
+}
