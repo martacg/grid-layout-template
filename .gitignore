@@ -1,7 +1,7 @@
 # Node artifact files
 node_modules/
-webpack/
-package-lock.json
+webpack
+/package-lock.json
 
 # Log files
 *.log
