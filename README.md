@@ -1,1 +1,1 @@
-# grid-layout-template
+# Grid Layout Template
